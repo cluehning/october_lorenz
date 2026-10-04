@@ -1,10 +1,3 @@
-"""Create an interactive, standalone HTML plot of the Lorenz attractor.
-
-Requires: numpy and plotly
-Install with: python -m pip install numpy plotly
-Run with: python lorenz_attractor.py
-"""
-
 import numpy as np
 import plotly.graph_objects as go
 from pathlib import Path
